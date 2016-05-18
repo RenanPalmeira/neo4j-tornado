@@ -1,0 +1,28 @@
+{
+  "name": "neotornado",
+  "authors": [
+    "Renan Palmeira <renan@forleven.com>"
+  ],
+  "description": "Using neo4j with tornado",
+  "main": "application.py",
+  "keywords": [
+    "neo4j",
+    "python",
+    "tornado",
+    "github"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.5"
+  }
+}
